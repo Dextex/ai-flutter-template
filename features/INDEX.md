@@ -1,13 +1,15 @@
-# Feature Index — Meal-Planer
+# Feature Index
 
 | ID | Feature | Status | Spec-Datei |
 |---|---|---|---|
-| PROJ-1 | Nutzerprofil-Onboarding | 🔵 Planned | PROJ-1-nutzerprofil.md |
-| PROJ-2 | Wochenplan-Generator | 🔵 Planned | PROJ-2-wochenplan.md |
-| PROJ-3 | Einkaufsliste | 🔵 Planned | PROJ-3-einkaufsliste.md |
-| PROJ-4 | Kalorien-Tracking | 🔵 Planned | PROJ-4-kalorien.md |
+
+**Nächste verfügbare ID:** PROJ-1
 
 ## Status-Symbole
 - 🔵 Planned — Anforderungen definiert, bereit für Entwicklung
 - 🟡 In Progress — Wird gerade gebaut
+- 🔵 In Review — QA läuft
 - ✅ Deployed — Fertig und in der App verfügbar
+
+---
+_Nutze `/requirements` um dein erstes Feature hinzuzufügen._
